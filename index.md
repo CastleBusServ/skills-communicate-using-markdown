@@ -17,4 +17,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
-###### This is the smallest h6 with six hashes to denote a header
+###### This is the smallest h6 with six hashes to denote a header - using a taklist as the basis of the example
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
+
+
